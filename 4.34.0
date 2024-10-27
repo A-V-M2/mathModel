@@ -1,0 +1,41 @@
+Collecting transformers
+  Downloading transformers-4.46.0-py3-none-any.whl (10.0 MB)
+     --------------------------------------- 10.0/10.0 MB 42.8 MB/s eta 0:00:00
+Collecting filelock
+  Using cached filelock-3.16.1-py3-none-any.whl (16 kB)
+Collecting huggingface-hub<1.0,>=0.23.2
+  Downloading huggingface_hub-0.26.1-py3-none-any.whl (447 kB)
+     ---------------------------------------- 447.4/447.4 kB ? eta 0:00:00
+Collecting numpy>=1.17
+  Using cached numpy-2.1.2-cp311-cp311-win_amd64.whl (12.9 MB)
+Collecting packaging>=20.0
+  Using cached packaging-24.1-py3-none-any.whl (53 kB)
+Collecting pyyaml>=5.1
+  Using cached PyYAML-6.0.2-cp311-cp311-win_amd64.whl (161 kB)
+Collecting regex!=2019.12.17
+  Using cached regex-2024.9.11-cp311-cp311-win_amd64.whl (274 kB)
+Collecting requests
+  Using cached requests-2.32.3-py3-none-any.whl (64 kB)
+Collecting safetensors>=0.4.1
+  Using cached safetensors-0.4.5-cp311-none-win_amd64.whl (285 kB)
+Collecting tokenizers<0.21,>=0.20
+  Using cached tokenizers-0.20.1-cp311-none-win_amd64.whl (2.4 MB)
+Collecting tqdm>=4.27
+  Using cached tqdm-4.66.5-py3-none-any.whl (78 kB)
+Collecting fsspec>=2023.5.0
+  Downloading fsspec-2024.10.0-py3-none-any.whl (179 kB)
+     ---------------------------------------- 179.6/179.6 kB ? eta 0:00:00
+Collecting typing-extensions>=3.7.4.3
+  Using cached typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Collecting colorama
+  Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting charset-normalizer<4,>=2
+  Using cached charset_normalizer-3.4.0-cp311-cp311-win_amd64.whl (101 kB)
+Collecting idna<4,>=2.5
+  Using cached idna-3.10-py3-none-any.whl (70 kB)
+Collecting urllib3<3,>=1.21.1
+  Using cached urllib3-2.2.3-py3-none-any.whl (126 kB)
+Collecting certifi>=2017.4.17
+  Using cached certifi-2024.8.30-py3-none-any.whl (167 kB)
+Installing collected packages: urllib3, typing-extensions, safetensors, regex, pyyaml, packaging, numpy, idna, fsspec, filelock, colorama, charset-normalizer, certifi, tqdm, requests, huggingface-hub, tokenizers, transformers
+Successfully installed certifi-2024.8.30 charset-normalizer-3.4.0 colorama-0.4.6 filelock-3.16.1 fsspec-2024.10.0 huggingface-hub-0.26.1 idna-3.10 numpy-2.1.2 packaging-24.1 pyyaml-6.0.2 regex-2024.9.11 requests-2.32.3 safetensors-0.4.5 tokenizers-0.20.1 tqdm-4.66.5 transformers-4.46.0 typing-extensions-4.12.2 urllib3-2.2.3
